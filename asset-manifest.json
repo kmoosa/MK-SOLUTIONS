@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/MK-SOLUTIONS/static/css/main.65ced885.css",
+    "main.js": "/MK-SOLUTIONS/static/js/main.82b62405.js",
+    "static/media/wall.jpg": "/MK-SOLUTIONS/static/media/wall.77e9a7dc8a70e521bfde.jpg",
+    "index.html": "/MK-SOLUTIONS/index.html",
+    "main.65ced885.css.map": "/MK-SOLUTIONS/static/css/main.65ced885.css.map",
+    "main.82b62405.js.map": "/MK-SOLUTIONS/static/js/main.82b62405.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65ced885.css",
+    "static/js/main.82b62405.js"
+  ]
+}
